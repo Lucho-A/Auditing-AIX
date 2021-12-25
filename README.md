@@ -7,6 +7,6 @@ The following image correspond to a full version of the program, that incorporat
 
 <sup><sup>1</sup> based on https://www.ibm.com/docs/en/aix/7.2?topic=security</sup>
 
-![image](https://user-images.githubusercontent.com/40904281/147374912-1450dc06-d109-4f29-8c08-0cf47a303bf4.png)
+![image](https://user-images.githubusercontent.com/40904281/147377414-2718b29b-6ba7-403e-b8c4-89047de329a9.png)
 
 
